@@ -29,8 +29,6 @@ sites:
     url: https://operations.czechnomad.cz
 
   # --- Interní infrastruktura ---
-  - name: Infra – Správa kontejnerů
-    url: https://portainer.czechnomad.cz
   - name: Infra – Logy
     url: https://logs.czechnomad.cz
   - name: Infra – Monitoring
