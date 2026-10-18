@@ -4,18 +4,20 @@
     "url": "https://josefbouse.cz",
     "icon": "https://icons.duckduckgo.com/ip3/josefbouse.cz.ico",
     "slug": "josefbouse-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 872,
-    "timeWeek": 705,
-    "timeMonth": 679,
-    "timeYear": 679,
-    "dailyMinutesDown": {}
+    "time": 2028,
+    "timeDay": 10222,
+    "timeWeek": 3064,
+    "timeMonth": 2028,
+    "timeYear": 2028,
+    "dailyMinutesDown": {
+      "2026-10-18": 1
+    }
   },
   {
     "name": "FoxHyn",
