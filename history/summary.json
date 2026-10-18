@@ -4,19 +4,19 @@
     "url": "https://josefbouse.cz",
     "icon": "https://icons.duckduckgo.com/ip3/josefbouse.cz.ico",
     "slug": "josefbouse-cz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2028,
-    "timeDay": 10222,
-    "timeWeek": 3064,
-    "timeMonth": 2028,
-    "timeYear": 2028,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1949,
+    "timeDay": 7095,
+    "timeWeek": 2817,
+    "timeMonth": 1949,
+    "timeYear": 1949,
     "dailyMinutesDown": {
-      "2026-10-18": 1
+      "2026-10-18": 10
     }
   },
   {
