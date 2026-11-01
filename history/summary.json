@@ -166,18 +166,20 @@
     "url": "https://n8n.czechnomad.cz",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.czechnomad.cz.ico",
     "slug": "automatizace-n8n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 753,
-    "timeWeek": 801,
-    "timeMonth": 653,
-    "timeYear": 653,
-    "dailyMinutesDown": {}
+    "time": 636,
+    "timeDay": 467,
+    "timeWeek": 724,
+    "timeMonth": 636,
+    "timeYear": 636,
+    "dailyMinutesDown": {
+      "2026-11-01": 0
+    }
   },
   {
     "name": "Operations",
