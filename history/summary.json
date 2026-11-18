@@ -166,19 +166,19 @@
     "url": "https://n8n.czechnomad.cz",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.czechnomad.cz.ico",
     "slug": "automatizace-n8n",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 577,
-    "timeWeek": 724,
-    "timeMonth": 703,
-    "timeYear": 669,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 666,
+    "timeDay": 556,
+    "timeWeek": 701,
+    "timeMonth": 698,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-11-18": 0
+      "2026-11-18": 7
     }
   },
   {
