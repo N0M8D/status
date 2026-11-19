@@ -11,12 +11,12 @@ sites:
     url: https://pessos.cz
   - name: Myprolidi
     url: https://myprolidi.cz
-  - name: Demo – Byznys
-    url: https://demo-web-byznys.josefbouse.cz
-  - name: Demo – Coffee
-    url: https://demo-web-coffee.josefbouse.cz
-  - name: Demo – Flora
-    url: https://demo-web-flora.josefbouse.cz
+ # - name: Demo – Byznys
+ #   url: https://demo-web-byznys.josefbouse.cz
+ # - name: Demo – Coffee
+ #   url: https://demo-web-coffee.josefbouse.cz
+ # - name: Demo – Flora
+ #   url: https://demo-web-flora.josefbouse.cz
 
   # --- Služby a aplikace ---
   - name: CMS (Payload)
